@@ -1,2 +1,4 @@
-# MatLab-simulacije
-Simulacija složenih električnih shema u MatLabu 
+# MatLab-simulations
+Simulation of complex electrical circuits in MatLab.
+# Author
+Ana Marija Župić
